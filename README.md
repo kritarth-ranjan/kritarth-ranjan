@@ -11,9 +11,7 @@ I love **building intelligent systems** and exploring the frontiers of **Machine
 🌱 **Always learning, always experimenting.**  
 Let’s connect, collaborate, and create something impactful!
 
----
-
-💻 **GitHub / Portfolio:** [github.com/kritarth-ml-lab](https://github.com/kritarth-ml-lab)  
+💻 **GitHub / Portfolio:** [GitHub Lab](https://github.com/kritarth-ranjan) | [GitHub Personal](https://github.com/Kritarth123-prince) | [Portfolio](https://kritarth.byethost5.com/)
 📧 **Contact for projects & collaborations:** [kritarth.lab@gmail.com](mailto:kritarth.lab@gmail.com)<br><br>
 
 
