@@ -1,11 +1,20 @@
 # 💫 About Me:
-**🎓 Machine Learning Enthusiast | Aspiring Researcher**<br><br>
+🎓 **AI & Machine Learning Enthusiast**
 
-👋 Hi, I'm Kritarth Ranjan! I'm a student with a passion for Machine Learning, Deep Learning, and Neural Networks. I'm fascinated by AI and love exploring how it can change the world.<br><br>
+I love **building intelligent systems** and exploring the frontiers of **Machine Learning, Deep Learning, and Neural Networks**. My goal is to turn ideas into practical AI solutions that solve real-world problems.
 
-🚀 I'm into building intelligent systems, diving deep into neural networks, and always on the lookout for exciting projects and collaborations.<br><br>
+💡 **What I do:**
+- Develop **ML & DL models** using Python, TensorFlow, and PyTorch  
+- Work on **hands-on AI projects** and research experiments  
+- Share **insights, tutorials, and code** through my GitHub AI/ML lab  
 
-🌱 Always learning, always growing. Let's connect and create something awesome together!<br><br>
+🌱 **Always learning, always experimenting.**  
+Let’s connect, collaborate, and create something impactful!
+
+---
+
+💻 **GitHub / Portfolio:** [github.com/kritarth-ml-lab](https://github.com/kritarth-ml-lab)  
+📧 **Contact for projects & collaborations:** [kritarth.lab@gmail.com](mailto:kritarth.lab@gmail.com)<br><br>
 
 
 ## 🌐 Socials:
